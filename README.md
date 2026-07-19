@@ -53,4 +53,4 @@
 
 ---
 
-⭐️ From [idk4whatamiusing](https://github.com/idk4whatamiusing)
+⭐️ From idk4whatamiusing
