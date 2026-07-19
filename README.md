@@ -1,6 +1,6 @@
 # Hi there 👋 I'm idk4whatamiusing
 
-[![GitHub followers](https://img.shields.io/github/followers/idk4whatamiusing?label=Follow&style=social)](https://github.com/idk4whatamiusing?tab=followers)
+[![GitHub followers](https://badges.pufler.dev/followers/idk4whatamiusing)](https://github.com/idk4whatamiusing?tab=followers)
 
 ---
 
@@ -19,7 +19,6 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=idk4whatamiusing&show_icons=true&theme=tokyonight&hide_border=true)
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idk4whatamiusing&layout=compact&theme=tokyonight&hide_border=true)
-![trophies](https://github-profile-trophy.vercel.app/?username=idk4whatamiusing&theme=tokyonight&no-frame=true)
 
 ---
 
