@@ -13,12 +13,12 @@
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="assets/javascript.png" alt="JavaScript" width="100" /> 
+<img src="assets/typescript.png" alt="TypeScript" width="100" /> 
+<img src="assets/python.png" alt="Python" width="100" /> 
+<img src="assets/react.png" alt="React" width="100" /> 
+<img src="assets/nodedotjs.png" alt="Node.js" width="100" /> 
+<img src="assets/git.png" alt="Git" width="100" />
 
 ---
 
@@ -49,7 +49,7 @@
 
 ## 🔗 Connect with me
 
-[![gunslol](https://img.shields.io/badge/gunslol-000000?style=for-the-badge&logo=gun&logoColor=white)](https://guns.lol/idk4whatamiusing)
+[![gunslol](assets/gunslol.svg)](https://guns.lol/idk4whatamiusing)
 
 ---
 
